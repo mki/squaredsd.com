@@ -1,0 +1,7 @@
+# Core:
+Django==1.11
+
+# REST
+djangorestframework==3.6.3
+django-rest-swagger==2.1.2
+django-rest-auth[with_social]
